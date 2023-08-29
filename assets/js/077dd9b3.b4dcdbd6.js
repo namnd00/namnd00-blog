@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknamnd_00_blog=self.webpackChunknamnd_00_blog||[]).push([[4198],{7325:o=>{o.exports=JSON.parse('{"permalink":"/namnd00-blog/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
