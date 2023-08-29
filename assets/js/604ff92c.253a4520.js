@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknamnd_00_blog=self.webpackChunknamnd_00_blog||[]).push([[478],{9338:l=>{l.exports=JSON.parse('{"permalink":"/namnd00-blog/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
